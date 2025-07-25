@@ -9,6 +9,8 @@ def check_even_odd(num):
     if num % 2 == 0:
         return "Even"
     else:
-        return "even"
+        return "Odd"
+this is new change which was made
+
 
 
