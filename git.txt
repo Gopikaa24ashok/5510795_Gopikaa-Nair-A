@@ -1,1 +1,15 @@
-added some file
+Check if a Number is Even or Odd
+
+Question: Write a Python program to check whether a number is even or odd.
+
+Solution:
+
+Copy the code
+def check_even_odd(num):
+    if num % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
+ifelse :
+        return
+
