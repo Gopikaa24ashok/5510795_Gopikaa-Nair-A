@@ -5,7 +5,7 @@ Copy the code
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My First HTML Page</title>
+    <title>My second HTML Page</title>
 </head>
 <body>
     <h1>Welcome to HTML Basics</h1>
