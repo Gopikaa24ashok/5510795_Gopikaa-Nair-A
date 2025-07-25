@@ -1,16 +1,15 @@
-Check if a Number is Even or Odd
 
-Question: Write a Python program to check whether a number is even or odd.
 
-Solution:
-
+1. HTML Structure
 Copy the code
-def check_even_odd(num):
-    if num % 2 == 0:
-        return "Even"
-    else:
-        return "Odd"
-this is new change which was made
-
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First HTML Page</title>
+</head>
+<body>
+    <h1>Welcome to HTML Basics</h1>
+    <p>This is a paragraph of text.</p>
+</body>
+</html>
 
