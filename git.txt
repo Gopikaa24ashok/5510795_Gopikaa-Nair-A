@@ -10,6 +10,5 @@ def check_even_odd(num):
         return "Even"
     else:
         return "Odd"
-ifelse :
-        return
+
 
